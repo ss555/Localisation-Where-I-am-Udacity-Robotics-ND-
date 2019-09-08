@@ -1,0 +1,11 @@
+
+controller_frequency: 20.0
+
+TrajectoryPlannerROS:
+  meter_scoring:        true
+  yaw_goal_tolerance:   0.10
+  xy_goal_tolerance:    0.10
+  occdist_scale:        0.1
+  sim_time:             2.0
+  pdist_scale:          0.6
+  
